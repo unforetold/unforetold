@@ -7,7 +7,9 @@ I am a developer of 4+ years, a student and a content creator! I dedicate my tim
 
 - I'm Australian.
 - You can contact me on discord (@unforetold), or by email. (on the left!)
+- CEO & Founder of Unforetolds Development Studio (Mostly known as UnforeStudios, however unrelated to UnforeSpace.)
 
+- You can find my personal info [here](https://me.unforetold.space/)
 
 ## My Skills: 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,blender,figma,lua,raspberrypi,robloxstudio)](https://skillicons.dev)
