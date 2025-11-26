@@ -18,6 +18,12 @@ I am a developer of 4+ years, a student and a content creator! I dedicate my tim
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 <details>
+  <summary>My Primary Projects</summary>
+
+  Currently I am focusing on Roblox based project, however since everything roblox is turning into a dumpster fire that might change soon.
+</details>
+
+<details>
   <summary>My GitHub Stats!</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=unforetold&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
