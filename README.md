@@ -5,23 +5,8 @@ I am a developer of 4+ years, a student and a content creator! I dedicate my tim
 
 ***More information about me below:***
 
-- I'm Australian.
-- You can contact me on discord (@unforetold), or by email. (on the left!)
-- CEO & Founder of Unforetolds Development Studio (Mostly known as UnforeStudios, however unrelated to UnforeSpace.)
-
-- You can find my personal info [here](https://me.unforetold.space/)
-
-## My Skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,blender,figma,lua,raspberrypi,robloxstudio)](https://skillicons.dev)
-
-## Things I'm learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-<details>
-  <summary>My Primary Projects</summary>
-
-  Currently I am focusing on Roblox based project, however since everything roblox is turning into a dumpster fire that might change soon.
-</details>
+- You can contact me by email if any issues arrise.
+- Founder of UnforeStudios
 
 <details>
   <summary>My GitHub Stats!</summary>
