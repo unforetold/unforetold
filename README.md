@@ -1,12 +1,13 @@
 # Hey!
 
 **I'm Unforetold!**
-I am a developer of 4+ years, a student and a content creator! I dedicate my time to learning new languages and working on games!
+I am a developer of 4+ years, primarily using JS, PY, Lua(u) and HTML/CSS.
 
 ***More information about me below:***
 
-- You can contact me by email if any issues arrise.
+- You can contact me by email if you have any issues, unfore@unforestudios.com
 - Founder of UnforeStudios
+- Primarily working on The Overseer, SourceShelf, and other misc projects.
 
 <details>
   <summary>My GitHub Stats!</summary>
